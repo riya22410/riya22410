@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Riya Gupta, a Computer Science Sophomore at IIIT-Delhi. 
 <!--
 **riya22410/riya22410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
