@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 
 ## GitHub Stats
-![demo](	https://github-readme-stats.vercel.app/api/top-langs/?username={riya22410}&theme=blue-green)
+![demo](https://github-readme-stats.vercel.app/api/top-langs/?username={riya22410}&theme=blue-green)
 ![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya22410&show_icons=true&theme=radical)
