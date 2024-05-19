@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-## GitHub Stats
-<!-- ![demo](https://github-readme-stats.vercel.app/api/top-langs/?username={riya22410}&theme=blue-green)-->
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya22410&show_icons=true&theme=radical)
+<!--## GitHub Stats
+<!-- ![demo](https://github-readme-stats.vercel.app/api/top-langs/?username={riya22410}&theme=blue-green)
+![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya22410&show_icons=true&theme=radical)-->
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya22410&layout=compact&theme=radical)
