@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Riya Gupta, a Computer Science Junior at IIIT-Delhi. 
+I am Riya Gupta, a 3rd year Computer Science Student at IIIT-Delhi. I have a keen interest in AI, ML and software development and am passionate about leveraging technology to solve real-world problems. I am open to working on challenging projects that will motivate me to hone my tech skills. I enjoy exploring latest advancements, trends and innovations in the tech industry.
 <!--
 **riya22410/riya22410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
